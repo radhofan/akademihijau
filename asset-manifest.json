@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/akademihijau/static/css/main.a7c1c9d4.css",
-    "main.js": "/akademihijau/static/js/main.d1afeadc.js",
-    "static/media/david-clode-o-S8EiQVo_g-unsplash.jpg": "/akademihijau/static/media/david-clode-o-S8EiQVo_g-unsplash.500bd7549ac0ad0097ff.jpg",
-    "index.html": "/akademihijau/index.html",
-    "main.a7c1c9d4.css.map": "/akademihijau/static/css/main.a7c1c9d4.css.map",
-    "main.d1afeadc.js.map": "/akademihijau/static/js/main.d1afeadc.js.map"
+    "main.css": "/static/css/main.c8cf9672.css",
+    "main.js": "/static/js/main.d1afeadc.js",
+    "static/media/david-clode-o-S8EiQVo_g-unsplash.jpg": "/static/media/david-clode-o-S8EiQVo_g-unsplash.500bd7549ac0ad0097ff.jpg",
+    "index.html": "/index.html",
+    "main.c8cf9672.css.map": "/static/css/main.c8cf9672.css.map",
+    "main.d1afeadc.js.map": "/static/js/main.d1afeadc.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7c1c9d4.css",
+    "static/css/main.c8cf9672.css",
     "static/js/main.d1afeadc.js"
   ]
 }
