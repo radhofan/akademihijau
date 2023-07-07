@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createBrowserRouter, RouterProvider, createHashRouter } from "react-router-dom";
 import FaunaTerancam from './content/FaunaTerancam';
 import FloraTerancam from './content/FloraTerancam';
 import FaunaEndemik from './content/FaunaEndemik';
@@ -21,7 +21,7 @@ import AnggrekHitam from './binatang/AnggrekHitam';
 import KayuHitam from './binatang/KayuHitam';
 import DaunPayung from './binatang/DaunPayung';
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <App />,
@@ -110,9 +110,7 @@ const router = createBrowserRouter([
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <RouterProvider router={router}>
-      <App/>
-    </RouterProvider>
+    <RouterProvider router={router}/>
   </React.StrictMode>
 );
 
