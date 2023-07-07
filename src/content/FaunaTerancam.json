@@ -1,0 +1,4 @@
+[{"id": 1, "nama_ilmiah":"Pongo","nama_umum":"Orang Utan","grup_spesies":"Monyet","daerah_asal":"Kalimantan","jumlah_populasi":2000},
+ {"id": 2, "nama_ilmiah":"Panthera tigris sondaica","nama_umum":"Harimau Sumatra","grup_spesies":"Macan","daerah_asal":"Sumatra","jumlah_populasi":200},
+ {"id": 3, "nama_ilmiah":"Javan rhinoceros","nama_umum":"Badak Jawa","grup_spesies":"Badak","daerah_asal":"Pulau Jawa","jumlah_populasi":400}
+]

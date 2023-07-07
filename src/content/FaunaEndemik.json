@@ -1,0 +1,4 @@
+[{"id": 1, "nama_ilmiah":"Varanus komodoensis","nama_umum":"Komodo","grup_spesies":"Reptil","daerah_asal":"Kepulauan Sumbawa","jumlah_populasi":1000},
+ {"id": 2, "nama_ilmiah":"Macrocephalon maleo","nama_umum":"Burung Maleo","grup_spesies":"Burung","daerah_asal":"Sumatra","jumlah_populasi":200},
+ {"id": 3, "nama_ilmiah":"Paradisaeidae","nama_umum":"Burung Cendrawasih","grup_spesies":"Burung","daerah_asal":"Pulau Jawa","jumlah_populasi":400}
+]
