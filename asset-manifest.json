@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/akademihijau/static/css/main.a7c1c9d4.css",
-    "main.js": "/akademihijau/static/js/main.7b54dfb4.js",
+    "main.js": "/akademihijau/static/js/main.d647e953.js",
     "static/media/david-clode-o-S8EiQVo_g-unsplash.jpg": "/akademihijau/static/media/david-clode-o-S8EiQVo_g-unsplash.500bd7549ac0ad0097ff.jpg",
     "index.html": "/akademihijau/index.html",
     "main.a7c1c9d4.css.map": "/akademihijau/static/css/main.a7c1c9d4.css.map",
-    "main.7b54dfb4.js.map": "/akademihijau/static/js/main.7b54dfb4.js.map"
+    "main.d647e953.js.map": "/akademihijau/static/js/main.d647e953.js.map"
   },
   "entrypoints": [
     "static/css/main.a7c1c9d4.css",
-    "static/js/main.7b54dfb4.js"
+    "static/js/main.d647e953.js"
   ]
 }
