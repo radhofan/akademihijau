@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-import { createBrowserRouter, RouterProvider,BrowserRouter } from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import FaunaTerancam from './content/FaunaTerancam';
 import FloraTerancam from './content/FloraTerancam';
 import FaunaEndemik from './content/FaunaEndemik';
@@ -110,9 +110,7 @@ const router = createBrowserRouter([
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename={'https://radhofan.github.io/akademihijau/'}>
-      <RouterProvider router={router} />
-    </BrowserRouter>
+    <RouterProvider router={router} />
   </React.StrictMode>
 );
 
