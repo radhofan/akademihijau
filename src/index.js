@@ -8,18 +8,18 @@ import FaunaEndemik from './content/FaunaEndemik';
 import FloraEndemik from './content/FloraEndemik';
 import SustainableLiving from './content/SustainableLiving';
 import Quiz from './content/Quiz';
-import OrangUtan from './binatang/OrangUtan';
-import HarimauSumatra from './binatang/HarimauSumatra';
-import BadakJawa from './binatang/BadakJawa';
-import Komodo from './binatang/Komodo';
-import BurungMaleo from './binatang/BurungMaleo';
-import BurungCendrawasih from './binatang/BurungCendrawasih';
-import BungaBangkai from './binatang/BungaBangkai';
-import BungaPadma from './binatang/BungaPadma';
-import BungaEdelweiss from './binatang/BungaEdelweiss';
-import AnggrekHitam from './binatang/AnggrekHitam';
-import KayuHitam from './binatang/KayuHitam';
-import DaunPayung from './binatang/DaunPayung';
+import OrangUtan from './pages/OrangUtan';
+import HarimauSumatra from './pages/HarimauSumatra';
+import BadakJawa from './pages/BadakJawa';
+import Komodo from './pages/Komodo';
+import BurungMaleo from './pages/BurungMaleo';
+import BurungCendrawasih from './pages/BurungCendrawasih';
+import BungaBangkai from './pages/BungaBangkai';
+import BungaPadma from './pages/BungaPadma';
+import BungaEdelweiss from './pages/BungaEdelweiss';
+import AnggrekHitam from './pages/AnggrekHitam';
+import KayuHitam from './pages/KayuHitam';
+import DaunPayung from './pages/DaunPayung';
 
 const router = createHashRouter([
   {
